@@ -1,0 +1,17 @@
+alkane  C-Hst  C-H           2840    3000    several strips of varying intensity
+alkane  C-Hst  CH3-O         2815    2850    alcohol methyl ether
+alkane  C-Hst  CH2-O         2830    2880    alcohol ether
+alkane  C-Hst  O-CH2-O       2835    2880    Dioksimetilen
+alkane  C-Hst   -            2750    2780    Dioksimetilen
+alkane  C-Hst  O-CH-O        2810    2830    weak in acetals
+alkane  C-Hst  (CH2-O-CH2)   3000    3050
+alkane  C-Hst  (CH2-N-CH2)   3000    3050
+alkane  C-Hst  CH=O          2800    2900    VAl'degidahRaschepleniyeResonansFermi
+alkane  C-Hst  CH=O          2750    2780    VAl'degidahRaschepleniyeResonansFermi
+alkane  C-Hst  CH3-N         2780    2820    amine
+alkane  C-Hst  CH2-N         2780    2820    amine
+alkane  C-Hst  (CH2-CH2-CH2) 3050    3100
+alkane  C-Hst    -           2995    3035
+alkane  C-Hst  ((CH2)6)      2995    3035
+alkane  C-Hst     -          3100    3050
+alkane  C-Hst  stC-Hal       2900    3080
